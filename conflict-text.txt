@@ -1,1 +1,2 @@
 this is conflict text file
+---Edited on GitHub-----
