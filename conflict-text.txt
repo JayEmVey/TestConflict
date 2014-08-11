@@ -3,3 +3,4 @@ this is conflict text file
 this is a new line
 ---Ohaio gozaimasu: Good morning ----
 ---Obanwa: Good evening ---
+---Konichiwa: Hello ----
