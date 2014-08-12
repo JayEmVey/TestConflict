@@ -1,6 +1,4 @@
-this is conflict text file
----Edited on GitHub-----
-this is a new line
+Japanese - English dictionary
 ---Ohaio gozaimasu: Good morning ----
 ---Obanwa: Good evening ---
 ---Konichiwa: Hello ----
